@@ -1,2 +1,2 @@
-# Stock-Price-Prediction-using-machine-learning
-This project demonstrates the use of Long Short-Term Memory (LSTM) neural networks to predict stock prices based on historical data. The goal is to train an LSTM model to forecast future stock prices by leveraging patterns in the time series data of a particular stock.
+# Stock-Price-Prediction-using-deep-learning
+This repository contains a project for predicting stock prices using advanced deep learning architectures such as LSTM+GRU and BiLSTM+GRU. The goal is to forecast future stock prices based on historical price data, utilizing time-series modeling techniques and TensorFlow/Keras libraries.
