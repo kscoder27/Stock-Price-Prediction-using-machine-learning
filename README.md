@@ -82,7 +82,7 @@ Compared to other models, **BiLSTM+GRU** consistently produced the lowest error 
 
 ```bash
 git clone https://github.com/kscoder27/Hybrid-Stock-Market-Model.git
-
+```
 
 
 <img width="989" height="590" alt="ConvergenceGraph" src="https://github.com/user-attachments/assets/ea7fb2d5-7c03-41e3-917d-e1f3921af902" />
